@@ -1,0 +1,16 @@
+PODS:
+  - SMTPLibrary (0.0.1)
+
+DEPENDENCIES:
+  - SMTPLibrary
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SMTPLibrary
+
+SPEC CHECKSUMS:
+  SMTPLibrary: 1ec1154649f95e63a2e83fba40819a1cb0bce29d
+
+PODFILE CHECKSUM: e5840184aec3428dc9a43c35ceee359da64446f4
+
+COCOAPODS: 1.5.3
